@@ -1,1 +1,1 @@
-A recipies website
+A recipes website
